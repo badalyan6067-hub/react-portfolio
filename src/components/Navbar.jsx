@@ -10,7 +10,6 @@ function Navbar() {
     { name: "Skills", href: "#skills" },
     { name: "Projects", href: "#projects" },
     { name: "Services", href: "#services" },
-    { name: "Contact", href: "#contact" },
   ];
 
   return (
