@@ -3,39 +3,19 @@ import { Helmet } from "react-helmet-async";
 function SEO() {
   return (
     <Helmet>
-      <title>Taron | Frontend Developer React Portfolio</title>
+      <title>Taron Badalyan | Frontend Developer | React Developer</title>
 
       <meta
         name="description"
-        content="Taron is a Frontend Developer specialized in React, JavaScript and Tailwind CSS. Building fast, responsive and SEO-friendly websites."
+        content="Taron Badalyan is a Frontend Developer specializing in React, JavaScript, Tailwind CSS and modern web applications."
       />
 
       <meta
         name="keywords"
-        content="Taron, Frontend Developer, React Developer, JavaScript Developer, React Portfolio, Tailwind CSS, Web Developer"
+        content="Taron Badalyan, Frontend Developer, React Developer, JavaScript Developer, Web Developer"
       />
 
-      <meta name="author" content="Taron" />
-
-      {/* Google / Social Media preview */}
-      <meta
-        property="og:title"
-        content="Taron | Frontend Developer React Portfolio"
-      />
-
-      <meta
-        property="og:description"
-        content="Modern React websites, responsive design and SEO friendly applications."
-      />
-
-      <meta property="og:type" content="website" />
-
-      <meta
-        property="og:url"
-        content="https://react-portfolio-delta-seven-93.vercel.app/"
-      />
-
-      <html lang="en" />
+      <meta name="author" content="Taron Badalyan" />
     </Helmet>
   );
 }

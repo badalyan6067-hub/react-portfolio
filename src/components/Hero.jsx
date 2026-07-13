@@ -9,7 +9,7 @@ function Hero() {
           initial={{ x: -100, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
         >
-          <h1 className="text-red-500 text-5xl">TEST TAILWIND</h1>
+          <h1 className="text-red-500 text-5xl">Բարի Գալուստ Ջիգսս</h1>
           <h1 className="text-5xl font-bold">
             Hi, I'm
             <span className="text-blue-500">Frontend Developer</span>
