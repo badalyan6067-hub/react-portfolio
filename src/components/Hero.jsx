@@ -1,6 +1,6 @@
 import hero from "../assets/hero.png";
 import { motion } from "framer-motion";
-import whatsappImg from "../assets/WhatsApp Image 2026-07-22 at 18.26.48.jpeg";
+import whatsappImg from "../assets/c806d58879926807151297a162228544.jpg";
 function Hero() {
   return (
     <section className="min-h-screen flex items-center justify-center px-6 pt-20">
@@ -9,9 +9,7 @@ function Hero() {
           initial={{ x: -100, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
         >
-          <h1 className="text-red-500 text-5xl">
-            Բարի Գալուստ Pedofil Vardan Vardanyan
-          </h1>
+          <h1 className="text-red-500 text-5xl">Բարի Գալուստ Տարիիիիի կայք</h1>
           <img
             src={whatsappImg}
             alt="WhatsApp"
