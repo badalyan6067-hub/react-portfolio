@@ -3,7 +3,8 @@ import { Helmet } from "react-helmet-async";
 function SEO() {
   return (
     <Helmet>
-      <title>Taron Badalyan | Frontend Developer | React Developer</title>
+      {/* <title>Taron Badalyan | Frontend Developer | React Developer</title> */}
+      <title>Vardan Vardanyan</title>
 
       <meta
         name="description"
